@@ -16,11 +16,11 @@ Plugin API docs: https://ampcode.com/manual/plugin-api
 
 ### Usage Monitor Demo
 
-<video src="assets/usage-monitor-demo.mp4" controls width="600" poster="assets/usage-monitor-demo.png"></video>
+[![Usage Monitor Demo](assets/usage-monitor-demo.png)](https://github.com/JokerRun/share-amp-plugins/raw/main/assets/usage-monitor-demo.mp4)
 
 ### Amp Notify Demo
 
-<video src="assets/amp-notify.mp4" controls width="600" poster="assets/amp-notify.png"></video>
+[![Amp Notify Demo](assets/amp-notify.png)](https://github.com/JokerRun/share-amp-plugins/raw/main/assets/amp-notify.mp4)
 
 
 ## Repo Structure
