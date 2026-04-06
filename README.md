@@ -2,15 +2,27 @@
 
 Community-style repo for sharing practical Amp plugins.
 
-Current plugin:
+Current plugins:
 
 - `usage-monitor`: notifications for `amp usage` balance changes.
 
+- `amp-notify`: native macOS/iTerm2 notifications when agent tasks complete (via iTerm2 + tmux), support jump back to your agent pane in tmux.
 Plugin API docs: https://ampcode.com/manual/plugin-api
 
 ## Demo
 
+
+
+
+### Usage Monitor Demo
+
 [![Usage Monitor Demo](assets/usage-monitor-demo.png)](assets/usage-monitor-demo.mp4)
+
+
+
+### Amp Notify Demo
+
+[![Usage Notify Demo](assets/amp-notify.png)](assets/amp-notify.mp4)
 
 
 ## Repo Structure
@@ -18,6 +30,9 @@ Plugin API docs: https://ampcode.com/manual/plugin-api
 ```text
 share-amp-plugins/
 └── plugins/
+    ├── amp-notify/
+    │   ├── README.md
+    │   └── amp-notify.ts
     └── usage-monitor/
         ├── README.md
         └── usage-monitor.ts
