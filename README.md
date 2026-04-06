@@ -16,11 +16,15 @@ Plugin API docs: https://ampcode.com/manual/plugin-api
 
 ### Usage Monitor Demo
 
-<video src="https://github.com/user-attachments/assets/9dae2d99-14f4-46b0-94b1-7f6103f4fc7c" controls poster="assets/usage-monitor-demo.png"></video>
+![Usage Monitor Demo](assets/usage-monitor-demo.png)
+
+https://github.com/user-attachments/assets/9dae2d99-14f4-46b0-94b1-7f6103f4fc7c
 
 ### Amp Notify Demo
 
-<video src="https://github.com/user-attachments/assets/860c667f-2b39-4539-ad5f-112ecea0ae6c" controls poster="assets/amp-notify.png"></video>
+![Amp Notify Demo](assets/amp-notify.png)
+
+https://github.com/user-attachments/assets/860c667f-2b39-4539-ad5f-112ecea0ae6c
 
 
 ## Repo Structure
